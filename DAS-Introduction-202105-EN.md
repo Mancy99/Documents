@@ -16,7 +16,7 @@ Decentralized identities are a key component of Web 3.0. There are a number of t
 
 - **Public Chain Address** 
 
-  Somewhere along the line, a public chain address is a decentralized identity. It can be created at will, is unique, and is resistant to censorship. But it is poorly readable and difficult to use.
+  Somewhere along the line, a public chain address is a decentralized identity. It can be created at will, is unique, and decentralized. But it is poorly readable and difficult to use.
 
 - **.eth, .crypto**
 
@@ -105,7 +105,7 @@ Another benefit is that no matter how the contract is upgraded, or how the contr
 
 In fact, the data associated with a DAS account is not limited to blockchain addresses or file hashes; it can be any data that is specified by the user. Based on this, users can selectively associate social accounts, personal profiles, personal preferences, etc. to the DAS account. Businesses can also associate their web pages deployed on decentralized storage to DAS accounts. Users can access this information when they access these accounts through a web browser with the DAS plug-in installed.
 
-At this point the DAS ledger behaves like a domain, and decentralized, censorship-resistant domain.
+At this point the DAS ledger behaves like a domain, and decentralized domain.
 
 
 
